@@ -22,9 +22,6 @@ Navkar :
 Implementing the architecture in the program
  
 
-Screenshots :
-Screenshots/Screenshot 2022-12-02 at 12.12.45 PM.png
-
 
 
 
